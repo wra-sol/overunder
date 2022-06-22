@@ -1,0 +1,19 @@
+{
+  "name": "overunder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-string": "^4.1.0",
+    "fs-extra": "^10.1.0",
+    "googleapis": "^39.2.0",
+    "mlb-stats-api": "^1.6.0",
+    "node-fetch": "^2.6.7",
+    "node-html-parser": "^5.3.3"
+  }
+}
